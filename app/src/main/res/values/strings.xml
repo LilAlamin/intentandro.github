@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">User_interaction</string>
+    <string-array name="negara">
+        <item>Indonesia</item>
+        <item>Suriname</item>
+        <item>Portugal</item>
+        <item>Kebakramat Regency</item>
+        <item>Kudu Sukoharjo</item>
+        <item>Uni Eropa</item>
+        <item>Amerika</item>
+    </string-array>
+
+    <string name="req"><a href="C:\Tugas TA Android\app\src\main\res\layout\activity_registrasion.xml">Create Account</a></string>
+</resources>
